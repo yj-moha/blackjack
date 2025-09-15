@@ -22,7 +22,7 @@ A terminal-based Blackjack game written in Rust, featuring interactive gameplay,
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/yj-moha/blackjack.git
 cd blackjack
 ```
 
